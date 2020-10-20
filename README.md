@@ -41,12 +41,29 @@
    ### 5、PHP
 ## 三、数据库
    ### 1、关系型数据库
+         mysql
+         oracle
+         sqlserver
    ### 2、非关系型数据库
+         mogoDB
+         db2
    ### 3、分布式数据
-   ### 5、实时数据
+         redis
+   ### 5、实时数据库
+         
 ## 四、大数据
+         hadoop
+         
 ## 五、人工智能
+        coffee
+        tensorflow
+        
 ## 六、算法
+         
 ## 七、linux/max/window 脚本
+       bash
+      
 ## 八、网路安全
 ## 九、计算机视觉
+        opencv
+       
