@@ -3,13 +3,11 @@
    ### 1、html/js/css
        html: 基于浏览器的超文本标记语言,主要通过便签的形式在浏览器的客户端展示,使用“标记”来注明文本、图片以及其他的内容,其标记繁多，具体可义参考 http://developer.mozila.org 网址
         其基础骨架如下
-        ```html
-        <!DOTYPE html>
-        <html>
-         <head></head>
-         <body></body>
-        </html>
-        ```
+         <!DOTYPE html>
+         <html>
+            <head></head>
+            <body></body>
+         </html>
    ### 2、浏览器原理
    ### 3、nodeJS
    ### 4、web 网页构建框架
