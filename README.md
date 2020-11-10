@@ -21,8 +21,9 @@
               > 火狐
           引擎:
    ### 3、nodeJS
-          原理：
-          发展
+          原理: nodejs是基于google V8 的javascript的编译框架，在用nodejs进行开发是需要区分，nodejs运行的js代码是运行在nodejs环境上，然而和浏览器上的javascript的代码是有区别，
+              平常我们的前端的构建一般是基于nodejs,但是到浏览器是经过nodejs 进行了编译成了不同的html和js,同时要开发的时候需要记住的关机点，特别是要用nodejs开发后段
+          发展：
    ### 4、web 网页构建工具
            webpack:
            
@@ -70,6 +71,9 @@
 ## 三、数据库
    ### 1、关系型数据库
          mysql
+            查看mysql的存储过程：show processlist;
+            终端某个正在运行的存储过程: show processlist - kill id
+            
          oracle
          sqlserver
    ### 2、非关系型数据库
