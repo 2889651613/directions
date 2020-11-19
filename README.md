@@ -30,9 +30,21 @@
    ### 5、大前端主流框架
          > 主流框架
          > 1.angular
+             原理：
+             发展：
+             理解
          > 2.vue
-         > 3.react
+               原理：
+               发展：
+               理解
+         > 3.react：
+               原理：
+               发展：
+               理解
          > 3.flutter
+               原理：
+               发展：
+               理解
          > web 网页
          > native
          
@@ -53,9 +65,18 @@
          > 其他小程序
 ## 二、后端
    ### 1、java
-         java 基础机构
-            运行原理:java 运行在虚拟机的一种
+         java 简述
+            运行原理:java是运行在虚拟机的一种程序，因此具有跨平台的特性，
             内存模型:
+            
+         Java 基础：
+            基本属性：
+            引用属性：
+            类：
+            接口：
+            集合：
+            io流：
+            socket通信：
             
          jdk原理：
          
@@ -65,7 +86,12 @@
               spring mvc:
               spring-boot:
               spring-cloud:
- 
+         java 其他框架：
+              netty:
+              mybatis:
+              hibernate:
+              guava:
+             
          jvm
    ### 2、c#
          C# 基础框架
