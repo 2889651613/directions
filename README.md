@@ -54,8 +54,18 @@
 ## 二、后端
    ### 1、java
          java 基础机构
-         jdk原理
-         java主流web框架
+            运行原理:java 运行在虚拟机的一种
+            内存模型:
+            
+         jdk原理：
+         
+         java主流web框架：
+              servlet:
+              spring:
+              spring mvc:
+              spring-boot:
+              spring-cloud:
+ 
          jvm
    ### 2、c#
          C# 基础框架
@@ -73,6 +83,7 @@
          mysql
             查看mysql的存储过程：show processlist;
             终端某个正在运行的存储过程: show processlist - kill id
+            查看引擎：show engines;
             
          oracle
          sqlserver
