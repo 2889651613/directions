@@ -8,10 +8,7 @@
             <head></head>
             <body></body>
          </html>
-         主要标签分类:
-               块内元素：
-               行内元素：
-               媒体元素：
+         期间html拥有众多的边标签：详情请查看 # https://developer.mozilla.org/zh-CN/docs/Learn/Getting_started_with_the_web/HTML_basics
                
    ### 2、浏览器原理
           内核：
