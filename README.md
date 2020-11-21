@@ -8,7 +8,7 @@
             <head></head>
             <body></body>
          </html>
-         期间html拥有众多的边标签：详情请查看 [mdn] # https://developer.mozilla.org/zh-CN/docs/Learn/Getting_started_with_the_web/HTML_basics
+         期间html拥有众多的边标签：详情请查看 [mdn html 基础] (https://developer.mozilla.org/zh-CN/docs/Learn/Getting_started_with_the_web/HTML_basics)
                
    ### 2、浏览器原理
           内核：
