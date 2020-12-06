@@ -9,8 +9,9 @@
             <head></head>
             <body></body>
          </html>
-html拥有众多的边标签：详情请查看 [mdn html 基础](https://developer.mozilla.org/zh-CN/docs/Learn/Getting_started_with_the_web/HTML_basics)
-html标签的作用：是浏览器提供的编译规范标签，只要按照规范；
+         
+      html拥有众多的边标签：详情请查看 [mdn html 基础](https://developer.mozilla.org/zh-CN/docs/Learn/Getting_started_with_the_web/HTML_basics)
+      html标签的作用：是浏览器提供的编译规范标签，只要按照规范；
      ### css:
          定位：
               1、相对定位(position:relative)：相对于父节点进行左右上下偏移(left/right/top/bottom)，可以控制偏移量
