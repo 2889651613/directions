@@ -14,9 +14,9 @@
       html标签的作用：是浏览器提供的编译规范标签，只要按照规范；
      ### css:
          定位：
-              1、相对定位(position:relative)：相对于父节点进行左右上下偏移(left/right/top/bottom)，可以控制偏移量
-              2、绝对定位(position:absolute)：相对于浏览器窗口进行左右上下偏移(left/right/top/bottom)，可以控制偏移量
-              3、固定定位(position:fixed)：悬浮于浏览器窗口进行左右上下偏移(left/right/top/bottom),可以控制偏移量
+              1、相对定位(position:relative)：相对于父节点进行左右上下偏移(left/right/top/bottom)，可以控制偏移量，但是页面会存在占位
+              2、绝对定位(position:absolute)：相对于浏览器窗口进行左右上下偏移(left/right/top/bottom)，可以控制偏移量，出现占位
+              3、固定定位(position:fixed)：悬浮于浏览器窗口进行左右上下偏移(left/right/top/bottom),可以控制偏移量，不会出现占位
               5、浮动(float:)：相对于浏览器窗口进行左右偏移(left/right),其偏移量不能控制
               注意：对于以上的定位与css的优先级有关和布局有关
          布局：
@@ -27,8 +27,8 @@
          动画：
              1、animation
      ### js:
-         1、语法：
-         2、保留关键词：
+         1、语法：es5,es6,原生
+         2、保留关键词：var,let const,funtion,class
          
 222
                
