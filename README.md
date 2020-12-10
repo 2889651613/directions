@@ -41,29 +41,49 @@
           引擎:
    ### 3、nodeJS
           原理: nodejs是基于google V8 的javascript的编译框架，在用nodejs进行开发是需要区分，nodejs运行的js代码是运行在nodejs环境上，然而和浏览器上的javascript的代码是有区别，
-              平常我们的前端的构建一般是基于nodejs,但是到浏览器是经过nodejs 进行了编译成了不同的html和js,同时要开发的时候需要记住的关机点，特别是要用nodejs开发后段
+              平常我们的前端的构建一般是基于nodejs,但是到浏览器是经过nodejs 进行了编译成了不同的html和js,同时要开发的时候需要记住的关机点，特别是要用nodejs开发后端
           发展：
    ### 4、web 网页构建工具
-           webpack:
+           webpack:前端流行的构建以及打包工具
+           
+           npm:前端下载包依赖工具
+           官网地址：
+               npm install 包名
+               npm list
+               npm uninstall
+               npm view
+               
+           yarn:前端下载包依赖工具
+           官网地址：
+                yarn add
+                yarn global add 
+                yarn remove
+                yarn list
+           npx:前端下载包依赖工具
+           官网地址
            
    ### 5、大前端主流框架
          > 主流框架
          > 1.angular
              原理：
              发展：
-             理解
+             理解：
+             构建工具：
          > 2.vue
                原理：
                发展：
-               理解
+               理解：
+               构建工具：
          > 3.react：
                原理：
                发展：
-               理解
+               理解：
+               构建工具：
          > 3.flutter
                原理：
                发展：
-               理解
+               理解：
+               
          > web 网页
          > native
          
