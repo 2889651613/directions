@@ -18,6 +18,7 @@
               2、绝对定位(position:absolute)：相对于浏览器窗口进行左右上下偏移(left/right/top/bottom)，可以控制偏移量，出现占位
               3、固定定位(position:fixed)：悬浮于浏览器窗口进行左右上下偏移(left/right/top/bottom),可以控制偏移量，不会出现占位
               5、浮动(float:)：相对于浏览器窗口进行左右偏移(left/right),其偏移量不能控制
+              5、position:sticky(粘贴性)
               注意：对于以上的定位与css的优先级有关和布局有关
          布局：
              1、流式布局：
@@ -26,6 +27,7 @@
              4、静态布局
          动画：
              1、animation
+         其他：mix-blend-mode:    
      ### js:
          1、语法：es5,es6,原生
          2、保留关键词：var,let const,funtion,class
