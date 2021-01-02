@@ -25,7 +25,7 @@
    
    布局：
    1. 流式布局：
-   2.  弹性布局：
+   2. 弹性布局：
    3. 响应式布局
    4. 静态布局
    
@@ -33,10 +33,11 @@
    1. animation
    其他：mix-blend-mode:    
    ### js:
-   1、 语法：es5,es6,原生
-   2、保留关键词：var,let const,funtion,class
-         
-222
+   1. 种类
+      1. 原生
+      2. typescript
+      3. es 系列
+   2. 保留关键词：var,let const,funtion,class
                
    ### 2、浏览器原理
    内核：
