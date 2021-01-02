@@ -1,17 +1,17 @@
 # directions
 ## 一、前端
    ### 1、html/js/css
-       ## html: 
-       概括：基于浏览器的超文本标记语言,主要通过便签的形式在浏览器的客户端展示,使用“标记”来注明文本、图片以及其他的内容,其标记繁多，具体可义参考 http://developer.mozila.org 网址
-        其基础骨架如下
+   ## html: 
+   概括：基于浏览器的超文本标记语言,主要通过便签的形式在浏览器的客户端展示,使用“标记”来注明文本、图片以及其他的内容,其标记繁多，具体可义参考 http://developer.mozila.org 网址
+   其基础骨架如下
          <!DOTYPE html>
          <html>
             <head></head>
             <body></body>
          </html>
          
-      html拥有众多的边标签：详情请查看 [mdn html 基础](https://developer.mozilla.org/zh-CN/docs/Learn/Getting_started_with_the_web/HTML_basics)
-      html标签的作用：是浏览器提供的编译规范标签，只要按照规范；
+    html拥有众多的边标签：详情请查看 [mdn html 基础](https://developer.mozilla.org/zh-CN/docs/Learn/Getting_started_with_the_web/HTML_basics)
+    html标签的作用：是浏览器提供的编译规范标签，只要按照规范；
      ### css:
          定位：
               1、相对定位(position:relative)：相对于父节点进行左右上下偏移(left/right/top/bottom)，可以控制偏移量，但是页面会存在占位
