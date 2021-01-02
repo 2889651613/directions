@@ -171,7 +171,7 @@
 ## 六、算法
          
 ## 七、linux/max/window 脚本
-       linux 命令
+   linux 命令
            pwd 查看当前目录路径
            ls -l 查看当前没有隐藏的资源
            ps 查看当前用户的进程
